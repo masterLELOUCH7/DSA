@@ -1,6 +1,6 @@
 # Data Structures and Algorithms (DSA) 🚀
 
-Welcome to my DSA repository! This repository contains my personal solutions, data structure implementations, and algorithm practice.
+Welcome to my DSA repository! This repository contains my personal solutions, data structure implementations, and algorithm practice using **C++**.
 
 ## 📊 LeetCode Progress
 
@@ -9,7 +9,7 @@ Welcome to my DSA repository! This repository contains my personal solutions, da
 ---
 
 ### 📂 Repository Structure
-- **Basic:** Fundamental problems to build logic.
-- **Advanced:** Complex problems involving graph theory, dynamic programming, etc.
+- **Basic:** Fundamental C++ problems to build logic.
+- **Advanced:** Complex C++ programs involving graph theory, dynamic programming, etc.
 
 *Feel free to explore or reach out if you have any questions or suggestions!*
